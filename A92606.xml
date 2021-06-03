@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Seven propositions sent from the Parliament of Scotland to the Parliament of England; concerning the Kings Majesty, and the citizens of London, touching their priviledge and liberties. With other particulars of great concernment. Brought by Lieutenant Colonell Marshall, and presented to the Honourable House of Commons upon Wednesday last, May the 3. 1648. Together with his speech at the delivering thereof. And the proceedings of both Houses thereupon. Likewise, a letter from his Excellency the Lord Generall to the House of Commons, concerning the citizens of London, and their late petition.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92606</idno><idno type="EEBO-CITATION">99863457</idno>
+  <idno type="VID">161657</idno>
+  <idno type="EEBO-PROQUEST">2240956857</idno>
+  
+            <idno type="STC">Wing S1335</idno>
+            <idno type="STC">Thomason E438_17</idno>
+            <idno type="STC">ESTC R203518</idno>
+            <idno type="PROQUEST">99863457</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99863457e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92606)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161657)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 69:E438[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Seven propositions sent from the Parliament of Scotland to the Parliament of England; concerning the Kings Majesty, and the citizens of London, touching their priviledge and liberties. With other particulars of great concernment. Brought by Lieutenant Colonell Marshall, and presented to the Honourable House of Commons upon Wednesday last, May the 3. 1648. Together with his speech at the delivering thereof. And the proceedings of both Houses thereupon. Likewise, a letter from his Excellency the Lord Generall to the House of Commons, concerning the citizens of London, and their late petition.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.W.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXLVIII. [1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A newsbook.</note>
+                  <note>Annotation on Thomason copy: "May 5".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term type="corporate_name">England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term type="corporate_name">Scotland. --  Parliament --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161657:1"/>
+            <p>SEVEN PROPOSITIONS Sent from the Parliament of SCOTLAND To the Parliament of ENGLAND; CONCERNING The Kings Majesty, and the Citizens of <hi>London,</hi> touching their priviledge and Liberties. With other parti<g ref="char:EOLhyphen"/>culars of great concernment.</p>
+            <p>Brought by Lieutenant Colonell <hi>Marshall,</hi> and presented to the Honourable House of Commons upon <hi>Wednesday</hi> last, <hi>May</hi> the 3. 1648. Together with his Speech at the delivering thereof. And the procee<g ref="char:EOLhyphen"/>dings of both Houses thereupon.</p>
+            <p>Likewise, a Letter from his Excellency the Lord Generall to the House of Commons, concerning the Citizens of <hi>London,</hi> and their late <hi>Petition.</hi>
+            </p>
+            <p>
+               <add>may .5.</add>
+               <hi>LONDON:</hi> Printed by R. W. MDCXLVIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161657:2"/>
+            <pb n="1" facs="tcp:161657:2"/>
+            <head>SAD NEVVES FROM THE NORTH.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THE distractions and feares of these parts are very great, and jealousies and differences doth dayly arise; for the Royalists Design begins to appeare visible, shewing themselves very forward and active for the aug<g ref="char:EOLhyphen"/>mentation and advancement of the Design in <hi>Wales,</hi> But not<g ref="char:EOLhyphen"/>withstanding all their preparations for a second Engage<g ref="char:EOLhyphen"/>ment, that which doth the most terrifie us is, the great Army now raising in Scotland, consisting of 35000 Horse, Foot, and Dragoons, to be speedily sent into <hi>England,</hi> for the re-in<g ref="char:EOLhyphen"/>throning of the King, it being the chiefest pretence where<g ref="char:EOLhyphen"/>on they now build their foundation.</p>
+            <pb n="2" facs="tcp:161657:3"/>
+            <p>As for the state and condition of this Island, I can assure you, they are in an excellent defensive posture, and are resol<g ref="char:EOLhyphen"/>ved to oppose both Scots, and other Forreiners, who dare or shall intrench upon the Confines of <hi>England,</hi> or disturbe the peace and quiet thereof, being unanimously agreed, to stand firm to their first principles, for the defence of King, Parliament, and Kingdome. Here is a vigilant eye fixed to<g ref="char:EOLhyphen"/>wards the Clifts of <hi>Berwick,</hi> by reason of Sir <hi>Thomas Glen<g ref="char:EOLhyphen"/>ham's</hi> sudden surprisall thereof for the King. This is all for the present, from</p>
+            <closer>
+               <signed>Yours to serve you, <hi>Nehemiah Daniel.</hi>
+               </signed>
+               <dateline>Holy-Island <date>1. of May, 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>Letters from Berwicke declare as followeth.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THe Declaration of the Parliament of Scotland (thun<g ref="char:EOLhyphen"/>dring against <hi>England</hi>) being perfected, it was put to the Vote, whether it should be sent to the Commitee of Divines, before it past, or not, was carryed in the Negative; When it was voted, 81 were for it, 31 against it, who prote<g ref="char:EOLhyphen"/>sted against it: the thing will be printed, and is to passe as a Herald, and had by this time beene abroad, had not the Church delayed their answer to Tuesday but have now de<g ref="char:EOLhyphen"/>clared their dissent fully and unanimously, being sensible of the sword getting into such hands, as when they see time, will make nothing of Covenant, nor other assurances given, and that they who have been esteemed hitherto the most re<g ref="char:EOLhyphen"/>ligious there, and in <hi>England,</hi> will become a prey to both popish and prelatical party.</p>
+            <pb n="3" facs="tcp:161657:3"/>
+            <p>This is, believe it, the apprehension of those in Scotland, many of whom stick not to say, they see no visible delive<g ref="char:EOLhyphen"/>rance from ruine, but the Army in <hi>England,</hi> what ever you think and say in the South of it, making good the old max<g ref="char:EOLhyphen"/>ime of the multitude, to dislike what ever is present; and if there were none other arguments to ground the former ex<g ref="char:EOLhyphen"/>pressed fears in Scotland, this one were enough, that 250. Barons or Lards have met at <hi>Lithgow,</hi> and other places, within view of Parliament, and so no doubt approved by many, who write Letters to the Inhabitants, to rise in de<g ref="char:EOLhyphen"/>fence of the King, Religion, and the Church, the two latter being the Golden outside of all risings: one of them was sent for to Parliament, who was not afraid to come; the other sent to him not to answer without them, they justifie their proceedings by an old Act of Parliament.</p>
+            <closer>
+               <dateline>Edinburgh <date>28. April 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>An exact Relation of the great Rising and Insurrection which happened in the City of <hi>Bristol.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>here hath lately arose a great insurrection in this City, occasioned by the malignant party; what their in<g ref="char:EOLhyphen"/>tents are, you may easily suppose; and if timely supplyes come not for the suppression of them, the event may prove very bad; for what their intentions are, you may easily sus<g ref="char:EOLhyphen"/>pect.</p>
+            <closer>
+               <dateline>Bristol <date>1 of May, 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:161657:4"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THE Parliament of <hi>Scotland</hi> having finished their Declaration, it bath passed by a major part in the vote vpon the question. But the Marq. of <hi>Argyle</hi> and other Lords and Members of Parliament, to the number of <hi>60.</hi> protested against it, and caused their pro<g ref="char:EOLhyphen"/>testations to be entred, except they took the advice of the Kirk, and had their concurrence therein Yet never<g ref="char:EOLhyphen"/>thelesse the Parliament proceeded vpon it, and putting it again to the question, passed it vpon the vote by <hi>41,</hi> voyces so that Forces are to be raised. But the Marq. of Argyle, and the rest of the other party, with the Mi<g ref="char:EOLhyphen"/>nisters, are resolved, that if they do march into <hi>England</hi> upon that <hi>Declaration,</hi> that they will follow with ano<g ref="char:EOLhyphen"/>ther Army in the Rear of them, and that they have as<g ref="char:EOLhyphen"/>surance from the old Army, which consisteth of about <hi>2500.</hi> Foot, and <hi>1000.</hi> Horse, to joyne with them, they cleave fast to the Clergy The Declaration and Propo<g ref="char:EOLhyphen"/>sals of the Parliament of <hi>Scotland,</hi> are dispatched for <hi>England</hi> by Col. <hi>Marshal,</hi> to be presented to both Hou<g ref="char:EOLhyphen"/>ses of Parliament assembled at Westminster.</p>
+            <closer>
+               <dateline>Edenburgh, <date>April 29. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="Parliamentary_declaration_and_proposals">
+            <p>UPon Wednesday last, being the 3. of this in<g ref="char:EOLhyphen"/>stant, <hi>Lieut. Col. Marshal</hi> presented the Decla<g ref="char:EOLhyphen"/>ration and Proposals of the Parliament of Scot<g ref="char:EOLhyphen"/>land, to the Parliament of <hi>England</hi> assembled at
+<pb n="5" facs="tcp:161657:4"/> Westminster, wherein is declared the results con<g ref="char:EOLhyphen"/>cerning <hi>England,</hi> who at the presenting of it to the Honorable House of Commons, the said Leut. Col. <hi>Marshal</hi> declared, that his time was limited, and that hee had order to stay but fifteene dayes, which was the utmost of the time prefixed. The particulars of this Declaration are as followeth: <hi>viz.</hi>
+               <list>
+                  <item>1. That his Majesty may come to <hi>London,</hi> or some of his houses neer the City, and there to remaine in ho<g ref="char:EOLhyphen"/>nour, freedome, and safety.</item>
+                  <item>2. That reparations be made for his carrying away from Holdenby, or satisfaction, by punishing them that did it.</item>
+                  <item>3. That the Presbytery be setled, and Sectaries pu<g ref="char:EOLhyphen"/>nished.</item>
+                  <item>4. That the Army under command of the Lord <hi>Fair<g ref="char:EOLhyphen"/>fax</hi> be disbanded.</item>
+                  <item>5, That the City of <hi>London</hi> have all priviledges made good to them.</item>
+                  <item>6. That the Covenant of both Kingdomes be injoy<g ref="char:EOLhyphen"/>ned universally.</item>
+                  <item>7. That all Members of Parliament, who have faithfully served, be restored.</item>
+               </list>
+            </p>
+            <p>The Lords put off the consideration of this bu<g ref="char:EOLhyphen"/>sinesse, till Thursday, <hi>May the</hi> 4.</p>
+            <pb n="6" facs="tcp:161657:5"/>
+            <p>The Commons consulted, whether they should in their settlement of the Kingdom, upon the matter of Propositi<g ref="char:EOLhyphen"/>ons, take in the Scots, or not, and then whether an addresse to his Majesty again.</p>
+            <p>The House of Commons received a Letter from the Ge<g ref="char:EOLhyphen"/>nerall, wherein he lets the House understand, his good li<g ref="char:EOLhyphen"/>king of the Cities choice of Major Gen. <hi>Skippon</hi> being cho<g ref="char:EOLhyphen"/>sen Major Gen. for <hi>London,</hi> and parts adjacent, and saith, that finding the Cities desire, that the Forces of the Army bee removed further from <hi>London,</hi> he being desirous to content them therein, rather then wrong them, hath ordered also the drawing off the Regiment of Col. <hi>Barksteads</hi> in White-Hall and Col. <hi>Riches</hi> at the Mewes, praying that they will take care of another guard for themselves, and intends to remove the rest as is desired.</p>
+            <closer/>
+            <postscript>
+               <p>Imprimatur</p>
+               <closer>
+                  <signed>G. M.</signed>
+               </closer>
+            </postscript>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
